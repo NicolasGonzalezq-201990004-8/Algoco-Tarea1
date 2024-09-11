@@ -1,4 +1,4 @@
-## Dividir y Conquistar
+## Análisis algoritmos Dividir y Conquistar
 Nicolás González
 
 201990004-8
